@@ -1,6 +1,6 @@
 {
   "name": "travelite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Passport bridge for hapi",
   "main": "lib/index.js",
   "directories": {
