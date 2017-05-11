@@ -29,6 +29,8 @@
     "mocha": "^2.2.1"
   },
   "dependencies": {
+    "boom": "^4.3.1",
+    "glib": "0.0.3",
     "passport": "^0.2.1"
   }
 }
