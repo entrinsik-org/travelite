@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "boom": "^4.3.1",
-    "glib": "0.0.3",
+    "glib": "^1.0.0",
     "passport": "^0.2.1"
   }
 }
